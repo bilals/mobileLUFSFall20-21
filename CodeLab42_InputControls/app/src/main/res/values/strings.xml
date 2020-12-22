@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CodeLab4.2_InputControls</string>
+    <string name="countryPrompt">Choose a country</string>
+</resources>

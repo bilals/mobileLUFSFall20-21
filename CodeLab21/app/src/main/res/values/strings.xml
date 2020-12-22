@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CodeLab 2.1</string>
+    <string name="no_message">No message was given on the previous page</string>
+    <string name="message_text">No Message</string>
+</resources>
